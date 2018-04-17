@@ -6,7 +6,7 @@
 baseurl = "/"
 publishDir = "docs"
 # Title of your site
-title = "Nicolas Hernández - Website"
+title = "Nicolas Hernandez"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,20 +50,20 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Nicolás J. Hernández Banadik"
+  role = "PhD (cand.) in Statistics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Universidad Carlos III de Madrid", url = "" } ]
 
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "foto.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "nicolas.hernandez@uc3m.es"
+  address = "calle Madrid, 126, 28903 Getafe (Madrid), Spain"
+  office_hours = "Wednesday 15:00 to 17:00 or email for appointment"
+  phone = "0034 91 624 96 74 "
+  skype = "nicolashernandezb"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
