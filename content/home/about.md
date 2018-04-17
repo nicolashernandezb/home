@@ -20,7 +20,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "PhD (cand.) in Business and Quantitative Methods"
+  course = "PhD (cand.) in Business and Quantitative Methods (Statistics)"
   institution = "Universidad Carlos III de Madrid"
   year = 2018
 
