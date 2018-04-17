@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Nicolas Hernandez</title>
-    <link>/home/</link>
+    <link>https://nicolashernandezb.github.io/home/home/</link>
     <description>Recent content in Homes on Nicolas Hernandez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nicolashernandezb.github.io/home/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://nicolashernandezb.github.io/home/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://nicolashernandezb.github.io/home/home/about/</guid>
       <description>Biography Nicolás Hernández is Master of Science in Business and Quantitative Methods and PhD (cand.) in Statistics by Universidad Carlos III de Madrid. At present he is developing his doctoral thesis related to Kernel learning methods for multivariate functional data with applications to prediction, classification and outlier detection. Through his teaching experience he has developed strong communication and teamwork skills. As a Senior consultant at CPA-Ferrere (Uruguay) he has carried out several projects focused on the development of quantitative tools for business decision making for the banking, retail, infrastructure and energy market.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
+      <link>https://nicolashernandezb.github.io/home/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/publications_selected/</guid>
+      <guid>https://nicolashernandezb.github.io/home/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/publications/</link>
+      <link>https://nicolashernandezb.github.io/home/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>https://nicolashernandezb.github.io/home/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
+      <link>https://nicolashernandezb.github.io/home/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>https://nicolashernandezb.github.io/home/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/home/posts/</link>
+      <link>https://nicolashernandezb.github.io/home/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>https://nicolashernandezb.github.io/home/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/projects/</link>
+      <link>https://nicolashernandezb.github.io/home/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>https://nicolashernandezb.github.io/home/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custom Section</title>
-      <link>/home/teaching/</link>
+      <link>https://nicolashernandezb.github.io/home/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>https://nicolashernandezb.github.io/home/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>/home/tags/</link>
+      <link>https://nicolashernandezb.github.io/home/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>/home/tags/</guid>
+      <guid>https://nicolashernandezb.github.io/home/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://nicolashernandezb.github.io/home/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://nicolashernandezb.github.io/home/home/contact/</guid>
       <description></description>
     </item>
     

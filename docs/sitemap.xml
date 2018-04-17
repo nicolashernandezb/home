@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://nicolashernandezb.github.io/home/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://nicolashernandezb.github.io/home/publication/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://nicolashernandezb.github.io/home/talk/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -32,7 +32,19 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://nicolashernandezb.github.io/home/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://nicolashernandezb.github.io/home/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -41,26 +53,7 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
+      <loc>https://nicolashernandezb.github.io/home/tags/</loc>
       <priority>0</priority>
     </url>
     
