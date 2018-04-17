@@ -271,7 +271,7 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Resumé"
+  name = "CV"
   url = "#cv"
   weight = 3
 
