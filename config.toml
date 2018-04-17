@@ -178,6 +178,13 @@ defaultContentLanguageInSubdir = false
     'Book section'  # 6
   ]
 
+  # Configuration of header
+   [params.header]
+        # Copy your own image into './static/img/'' if you wish
+        image = "foto.jpg"
+        name = "Nicolás Hernández"
+        subtitle = "PhD (cand) in Statistics"
+
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
