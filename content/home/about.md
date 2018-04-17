@@ -15,28 +15,29 @@ weight = 5
     "Data Mining",
     "Machine Learning",
     "Statistical Computing with applications to Health, Technology and Economics"
-    ]
+  ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "PhD (cand.) in Business and Quantitative Methods"
+  institution = "Universidad Carlos III de Madrid"
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "Msc in Business and Quantitative Methods"
+  institution = "Universidad Carlos III de Madrid"
+  year = 2015
+
+[[education.courses]]
+  course = "BSc in Economics"
+  institution = "Universidad ORT Uruguay"
+  year = 2011
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nicolás Hernández is Master of Science in Business and Quantitative Methods  and PhD (cand.) in Statistics by Universidad Carlos III de Madrid. At present he is developing his doctoral thesis related to Kernel learning methods for multivariate functional data with applications to prediction, classification and outlier detection. Through his teaching experience he has developed strong communication and teamwork skills. As a Senior consultant at CPA-Ferrere (Uruguay) he has carried out several projects focused on the development of quantitative tools for business decision making for the banking, retail, infrastructure and energy market.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
