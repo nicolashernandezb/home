@@ -271,6 +271,11 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
+  name = "Resumé"
+  url = "#resumé"
+  weight = 3
+
+[[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
