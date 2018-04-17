@@ -11,9 +11,11 @@ weight = 5
 [interests]
   interests = [
     "Functional Data Analysis",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+    "Kernel Learning Methods",
+    "Data Mining",
+    "Machine Learning",
+    "Statistical Computing with applications to Health, Technology and Economics"
+    ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
