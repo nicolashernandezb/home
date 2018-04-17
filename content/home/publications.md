@@ -5,7 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Martos, G., Hern´andez, N., Mu˜noz, A., & Moguerza, J. M. (2018). Entropy Measures for Stochastic Processes with Applications in Functional Anomaly Detection. Entropy, 20(1), 33."
+title = ""
 subtitle = ""
 
 # Order that this section will appear in.
