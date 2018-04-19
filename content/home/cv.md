@@ -1,5 +1,3 @@
-# CV
-
 +++
 # About/CV widget.
 widget = "cv"
