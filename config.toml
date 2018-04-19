@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Universidad Carlos III de Madrid", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "uc3m.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "foto.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "nicolas.hernandez@uc3m.es" 	
 
   address = "calle Madrid, 126, 28903 Getafe (Madrid), Spain"
