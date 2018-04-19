@@ -252,7 +252,7 @@ defaultContentLanguageInSubdir = false
     link = "https://www.linkedin.com/in/nicol%C3%A1s-hern%C3%A1ndez-74953a56/"
 
    [[params.social]]
-    icon = "google-scholar"
+    icon = "researchgate.net"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Nicolas_Hernandez7"
 
