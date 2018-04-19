@@ -39,8 +39,12 @@ caption = ""
 
 +++
 
-# Biography
+# Welcome to my website!
 
-Nicolás Hernández is Master of Science in Business and Quantitative Methods  and PhD (cand.) in Statistics by Universidad Carlos III de Madrid. At present he is developing his doctoral thesis related to Kernel learning methods for multivariate functional data with applications to prediction, classification and outlier detection. Through his teaching experience he has developed strong communication and teamwork skills. As a Senior consultant at CPA-Ferrere (Uruguay) he has carried out several projects focused on the development of quantitative tools for business decision making for the banking, retail, infrastructure and energy market.
+I am a PhD Candidate in Statistics at Universidad Carlos III de Madrid.
+
+My research focus Kernel learning methods for multivariate functional data with applications to prediction, classification and outlier detection. My areas of interest are related to empirical statistical applications to Health, Technology and Economic using data mining and machine learning techniques.
+
+As a Senior consultant at CPA-Ferrere (Uruguay) I have carried out several projects focused on the development of quantitative tools for business decision making for the banking, retail, infrastructure and energy market.
 
 
