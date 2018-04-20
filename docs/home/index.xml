@@ -42,25 +42,6 @@ As a Senior consultant at CPA-Ferrere (Uruguay) I have carried out several proje
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://nicolashernandezb.github.io/home/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://nicolashernandezb.github.io/home/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>https://nicolashernandezb.github.io/home/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://nicolashernandezb.github.io/home/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://nicolashernandezb.github.io/home/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
